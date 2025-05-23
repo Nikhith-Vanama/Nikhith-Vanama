@@ -1,7 +1,7 @@
 <!-- Title -->
 ## About Me:
 
-🔭 I'm a Fresher looking for a job
+🔭 I'm a Fresher looking for a job 
 
 ---
 
