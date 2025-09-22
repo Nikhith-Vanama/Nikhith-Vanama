@@ -52,9 +52,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhith-Vanama&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nikhith-Vanama&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Nikhith-Vanama&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhith-Vanama&layout=compact&theme=dark)
+
 
 ---
 
