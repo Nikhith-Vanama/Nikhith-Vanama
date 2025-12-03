@@ -40,6 +40,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Natural Language Processing](https://img.shields.io/badge/NLP-7E57C2?style=for-the-badge&logo=academia&logoColor=white)
 ![Large Language Models](https://img.shields.io/badge/LLMs-512DA8?style=for-the-badge&logo=openai&logoColor=white)
+
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-00C853?style=for-the-badge&logo=googlecloud&logoColor=white)
 
