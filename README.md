@@ -44,7 +44,6 @@
 
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-00C853?style=for-the-badge&logo=googlecloud&logoColor=white)
-
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
@@ -55,7 +54,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![IoT](https://img.shields.io/badge/IoT-00A1E0?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![IIoT](https://img.shields.io/badge/IIoT-FF8C00?style=for-the-badge&logo=siemens&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=cloud&logoColor=white)
