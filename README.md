@@ -51,6 +51,15 @@
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-FF5733?style=for-the-badge&logo=databricks&logoColor=white)
+![ANSI SQL](https://img.shields.io/badge/ANSI%20SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-FF9800?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-1565C0?style=for-the-badge&logo=snowflake&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4CAF50?style=for-the-badge&logo=database&logoColor=white)
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-673AB7?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Azure Cloud](https://img.shields.io/badge/Azure%20Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
