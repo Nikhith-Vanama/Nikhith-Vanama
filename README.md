@@ -1,6 +1,7 @@
 <!-- Title -->
 ## About Me:
 
+🔭 I'm a currently working in Cognizant Technology Solutions(CTS) as  Analyst Trainee.
 
 ---
 
